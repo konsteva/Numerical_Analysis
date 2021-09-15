@@ -33,12 +33,12 @@ Below can be seen the results from the Methods_test.m file where f = x^3-2x^2+1,
 
 - First root:
     
-    First Root Interval: [-2,-1.750000e+00] 
+      First Root Interval: [-2,-1.750000e+00] 
 
-    First Root Approximations: 
-    Newton-Raphson: r= -0.6180339887498949 (Times looped: 7) 
-    Secant: r= -0.6180339887498949 (Times looped: 9) 
-    Bisection: r= -1.7500000000000002 (Times looped: 50)
+      First Root Approximations: 
+      Newton-Raphson: r= -0.6180339887498949 (Times looped: 7) 
+      Secant: r= -0.6180339887498949 (Times looped: 9) 
+      Bisection: r= -1.7500000000000002 (Times looped: 50)
     
 - Second root:
     
